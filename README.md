@@ -1,7 +1,8 @@
 # e-Yantra_MOOC
 Online Crash Course on Embedded Systems and Robotics
 
-![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/MOOC%20score.png)
+# Score Board
+![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
 # Submission Status
 
