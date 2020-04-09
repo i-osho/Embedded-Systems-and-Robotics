@@ -5,7 +5,8 @@ Online Crash Course on Embedded Systems and Robotics
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
 # Youtube Links
-[![CA1](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Screenshot%20(73).png)]
+**LCD_special_character**
+![CA1](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Screenshot%20(73).png)
 (https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be)
 
 ![CA2](https://youtu.be/sdMJ580zUXo)
