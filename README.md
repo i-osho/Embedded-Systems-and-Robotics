@@ -1,6 +1,8 @@
 # e-Yantra_MOOC
 Online Crash Course on Embedded Systems and Robotics
 
+![Score Board](C:\Users\kkote\Desktop\"MOOC score.png")
+
 # Submission Status
 
 **Week 4**
