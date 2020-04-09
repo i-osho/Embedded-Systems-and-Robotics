@@ -8,15 +8,17 @@ Online Crash Course on Embedded Systems and Robotics
 **LCD special character**
 
 
+https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be
 ![CA1](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Screenshot%20(73).png)
-(https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be)
+
 
 
 **Line Following**
 
 
+https://www.youtube.com/watch?v=sdMJ580zUXo&feature=youtu.be
 ![CA2](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Screenshot%20(72).png)
-(https://www.youtube.com/watch?v=sdMJ580zUXo&feature=youtu.be)
+
 
 
 # Submission Status
