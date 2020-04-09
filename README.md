@@ -4,6 +4,10 @@ Online Crash Course on Embedded Systems and Robotics
 # Score Board
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
+# Youtube Links
+![CA1](https://youtu.be/B5XCF5c6mSU)
+![CA2](https://youtu.be/sdMJ580zUXo)
+
 # Submission Status
 
 **Week 4**
