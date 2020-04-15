@@ -5,7 +5,7 @@ Online Crash Course on Embedded Systems and Robotics
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
 
-# Shortlisted for eYantra Intership
+# Shortlisted for eYantra Internship
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
 **But sadly not selected :(**
 
