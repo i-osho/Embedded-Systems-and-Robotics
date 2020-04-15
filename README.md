@@ -7,7 +7,7 @@ Online Crash Course on Embedded Systems and Robotics
 
 # Shortlisted for eYantra Intership
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
-**But sadly not selected :( **
+**But sadly not selected :(**
 
 # Youtube Links
 **LCD special character**
