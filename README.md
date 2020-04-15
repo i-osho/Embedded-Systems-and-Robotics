@@ -4,6 +4,10 @@ Online Crash Course on Embedded Systems and Robotics
 # Score Board
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
+
+# Shortlisted for eYantra Intership
+![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
+
 # Youtube Links
 **LCD special character**
 https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be
@@ -39,4 +43,4 @@ Minimum requirement is satisfied. In additional part, scrolling text with custom
 
 **For Code:**
 Function description is not provided. More comments could be provided. Function description is not provided. Lengthy main function. Ideally, logic should be divided into smaller functions and those functions should be called in main function.
-
+ 
