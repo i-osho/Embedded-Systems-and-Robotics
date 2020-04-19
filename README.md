@@ -1,6 +1,11 @@
 # Embedded Systems and Robotics
 Online Crash Course by e-Yantra
 
+# Introduction
+Crash Course is an online platform developed by e-Yantra, to offer Massive Open Online Courses (MOOCs) for individuals from varying backgrounds. We encourage students in Engineering/ Science/ Polytechnic colleges to take advantage of the courses.
+
+Our 4 Weeks Course is offered along with a challenge activity to help you hone your acquired skills. This is like a “mini-theme” of our popular e-Yantra Robotics Competition.
+
 # Score Board
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
