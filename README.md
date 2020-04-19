@@ -1,4 +1,4 @@
-# Embedded Systems and RoboticsEmbedded Systems and Robotics
+# Embedded Systems and Robotics
 Online Crash Course by e-Yantra
 
 # Score Board
