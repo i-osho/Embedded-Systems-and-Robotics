@@ -10,11 +10,9 @@ Online Crash Course by e-Yantra
 **But sadly not selected :disappointed:**
 
 # Youtube Links
-**LCD special character**
-https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be
+[**LCD special character**](https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be)
 
-**Line Following**
-https://www.youtube.com/watch?v=sdMJ580zUXo&feature=youtu.be
+[**Line Following**](https://www.youtube.com/watch?v=sdMJ580zUXo&feature=youtu.be)
 
 
 # Submission Status
