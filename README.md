@@ -11,9 +11,8 @@ Our 4 Weeks Course is offered along with a challenge activity to help you hone y
 
 
 # Shortlisted for eYantra Internship :blush:
-# But sadly not selected :disappointed:
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
-
+**But sadly not selected :disappointed:**
 
 # Youtube Links
 [**LCD special character**](https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be)
