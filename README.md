@@ -10,7 +10,7 @@ Our 4 Weeks Course is offered along with a challenge activity to help you hone y
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
 
-# Shortlisted for eYantra Internship :blush:
+# Shortlisted for eYantra Internship Interview :blush:
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
 **But sadly not selected :disappointed:**
 
