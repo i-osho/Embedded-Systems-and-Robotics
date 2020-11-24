@@ -14,7 +14,7 @@ Our 4 Weeks Course is offered along with a challenge activity to help you hone y
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
 **But sadly not selected :disappointed:** 
   
-[**Merit Certificate**](https://github.com/koteshkoti/Certificates/blob/master/e-Yantra%20Embedded%20Systems%20and%20Robotics.pdf)
+[**Merit Certificate**](https://github.com/koteshkoti/Certificates/blob/master/Documents/e-Yantra%20Embedded%20Systems%20and%20Robotics.pdf)
 
 # Youtube Links
 [**LCD special character**](https://www.youtube.com/watch?v=B5XCF5c6mSU&feature=youtu.be)
