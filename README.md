@@ -10,9 +10,9 @@ Our 4 Weeks Course is offered along with a challenge activity to help you hone y
 ![Score Board](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Score%20Board.png)
 
 
-# Shortlisted for eYantra Internship Interview :blush:
+# Shortlisted for eYantra Internship Interview
 ![List](https://github.com/koteshkoti/e-Yantra_MOOC/blob/master/MOOC_resources/Shortlisted%20list%20stage1.png)
-**But sadly not selected :disappointed:** 
+**But sadly not selected** 
   
 [**Merit Certificate**](https://github.com/koteshkoti/Certificates/blob/master/Documents/e-Yantra%20Embedded%20Systems%20and%20Robotics.pdf)
 
